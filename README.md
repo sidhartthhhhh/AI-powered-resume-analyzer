@@ -18,16 +18,18 @@ A full-stack intelligent web application that analyzes resumes against job descr
 | **Database** | MongoDB (via PyMongo) |
 | **Others**   | JWT Auth, Bcrypt, Git, ESLint |
 
+---
 
-
-🔐 Authentication
+## 🔐 Authentication
 JWT Token-Based Auth
 
 Register & Login
 
 Token refresh mechanism included
 
-📚 Learnings / Contributions
+---
+
+## 📚 Learnings / Contributions
 This project helped me gain real-world experience in:
 
 Building full-stack applications
@@ -40,7 +42,7 @@ Frontend logic + backend data sync
 
 Git versioning & deployment
 
-
+---
 
 🤝 Contributing
 Want to improve it? Fork and contribute!
