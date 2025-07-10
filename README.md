@@ -2,10 +2,6 @@
 
 A full-stack intelligent web application that analyzes resumes against job descriptions using NLP and AI to highlight skill matches, missing keywords, and generate recommendations.
 
-## 🚀 Live Demo
-🚧 *[Add deployed link if available]*  
-🔧 Or clone and run locally — steps below!
-
 ---
 
 ## 🔧 Tech Stack
