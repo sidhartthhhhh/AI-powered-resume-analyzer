@@ -58,13 +58,6 @@ Want to improve it? Fork and contribute!
 ✅ Real-time AI Resume Analysis  
 ✅ Modern UI with React + Vite
 
----
-
-## 🖥️ Screenshots
-
-*(Add screenshots here if available — like homepage, upload, results)*  
-E.g.:
-> ![Upload Page](./screenshots/upload-page.png)
 
 ---
 
